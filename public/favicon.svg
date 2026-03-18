@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Elite Auto Estetica">
+  <rect width="64" height="64" rx="14" fill="#0d0d0d"/>
+  <path d="M14 45L22 18H26L18 45H14Z" fill="#f4b317"/>
+  <path d="M28 45V18H50V22H33V29H47V33H33V41H50V45H28Z" fill="#f5f0e6"/>
+  <path d="M12 50H52" stroke="#f4b317" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+</svg>

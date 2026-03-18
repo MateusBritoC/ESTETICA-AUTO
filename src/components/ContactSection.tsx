@@ -7,7 +7,7 @@ const ContactSection = () => {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     const msg = `Olá! Me chamo ${formData.nome}. Tenho interesse no serviço: ${formData.servico}. ${formData.mensagem}`;
-    window.open(`https://wa.me/5511999999999?text=${encodeURIComponent(msg)}`, "_blank");
+    window.open(`https://wa.me/5592993083534?text=${encodeURIComponent(msg)}`, "_blank");
   };
 
   return (
